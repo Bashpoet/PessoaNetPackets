@@ -100,27 +100,89 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *"The packet not taken makes all the difference" - Robert Frost, if he were a network engineer*
+# 📜 Legal & Ethical Disclaimer
 
-📜 Legal & Ethical Disclaimer
-This project, Network Poetry Generator, captures and processes network traffic to create poetic reflections using OpenAI's API. Please review the following legal and ethical considerations before using this code:
+## Overview
+PessoaNetPackets is an artistic tool that transforms network traffic data into poetry using OpenAI's API. This disclaimer outlines crucial legal and ethical considerations for users.
 
-Network Monitoring Legality:
-This tool uses pyshark to capture network packets. Capturing network traffic without explicit permission may violate laws such as the GDPR (EU), CCPA (US), or other privacy and surveillance regulations in your jurisdiction.
-Ensure you only run this project:
+## Legal Considerations
 
-On networks you own or control.
-With explicit written permission from the network's owner if used in other environments.
-Data Privacy:
-While this project only processes metadata (IP addresses, ports, packet sizes), no packet payloads are inspected. For added privacy:
+### Network Monitoring Compliance
+- **Permission Requirements**
+  - Only capture traffic on networks you own or manage
+  - Obtain explicit written authorization for use on other networks
+  - Document all authorizations and maintain records
 
-Avoid sharing logs or generated poetry publicly if real IP addresses are involved.
-Consider anonymizing IP addresses or hashing sensitive data.
-OpenAI API Usage:
-This project integrates OpenAI's API for creative purposes only. Ensure your use complies with OpenAI's Terms of Service. Be mindful of API rate limits, costs, and secure storage of your API key.
+- **Regulatory Framework**
+  - Comply with relevant regulations including:
+    - General Data Protection Regulation (GDPR) in the EU
+    - California Consumer Privacy Act (CCPA) in the US
+    - Local privacy and surveillance laws in your jurisdiction
+  - Consult legal counsel for compliance in your specific context
 
-Ethical Use Reminder:
-This project is intended for artistic, educational, and research purposes. Do not use it for surveillance, unauthorized data collection, or malicious purposes. Always respect privacy and data security best practices.
+### Data Privacy & Security
 
-By running this project, you agree that you understand these terms and assume full responsibility for its ethical use. The creator is not responsible for any misuse or legal violations stemming from unauthorized use.
+#### Data Processing Guidelines
+- No packet payload inspection
+- Only metadata processing:
+  - IP addresses
+  - Port numbers
+  - Packet sizes
+  - Protocol information
 
+#### Privacy Protection Measures
+- Implement data anonymization:
+  - Hash or mask IP addresses
+  - Remove identifying metadata
+  - Sanitize logs before storage
+- Secure storage requirements:
+  - Encrypted storage systems
+  - Regular security audits
+  - Access control implementation
 
+### API Usage Compliance
+
+#### OpenAI API Requirements
+- Adhere to OpenAI's Terms of Service
+- Monitor and respect rate limits
+- Implement secure API key management
+- Regular review of OpenAI's policy updates
+
+## Ethical Guidelines
+
+### Acceptable Use Cases
+✅ **Permitted Applications**
+- Artistic experimentation
+- Educational demonstrations
+- Research purposes
+- Network analysis training
+
+❌ **Prohibited Activities**
+- Unauthorized surveillance
+- Malicious data collection
+- Privacy violations
+- Commercial exploitation without proper licenses
+
+### Best Practices
+1. Regular ethical audits of usage
+2. Transparent documentation of processes
+3. Clear communication with network users
+4. Immediate reporting of security concerns
+
+## User Agreement
+By using PessoaNetPackets, you:
+1. Acknowledge understanding of these terms
+2. Accept responsibility for ethical usage
+3. Agree to maintain compliance with all applicable laws
+4. Understand that the creator assumes no liability for misuse
+
+## Limitation of Liability
+The creator and contributors of PessoaNetPackets:
+- Provide no warranties or guarantees
+- Accept no responsibility for misuse
+- Are not liable for any damages or legal issues
+- Recommend consulting legal professionals for specific advice
+
+---
+
+*Last Updated: December 8, 2024*

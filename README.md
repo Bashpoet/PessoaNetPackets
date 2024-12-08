@@ -100,3 +100,27 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *"The packet not taken makes all the difference" - Robert Frost, if he were a network engineer*
+
+📜 Legal & Ethical Disclaimer
+This project, Network Poetry Generator, captures and processes network traffic to create poetic reflections using OpenAI's API. Please review the following legal and ethical considerations before using this code:
+
+Network Monitoring Legality:
+This tool uses pyshark to capture network packets. Capturing network traffic without explicit permission may violate laws such as the GDPR (EU), CCPA (US), or other privacy and surveillance regulations in your jurisdiction.
+Ensure you only run this project:
+
+On networks you own or control.
+With explicit written permission from the network's owner if used in other environments.
+Data Privacy:
+While this project only processes metadata (IP addresses, ports, packet sizes), no packet payloads are inspected. For added privacy:
+
+Avoid sharing logs or generated poetry publicly if real IP addresses are involved.
+Consider anonymizing IP addresses or hashing sensitive data.
+OpenAI API Usage:
+This project integrates OpenAI's API for creative purposes only. Ensure your use complies with OpenAI's Terms of Service. Be mindful of API rate limits, costs, and secure storage of your API key.
+
+Ethical Use Reminder:
+This project is intended for artistic, educational, and research purposes. Do not use it for surveillance, unauthorized data collection, or malicious purposes. Always respect privacy and data security best practices.
+
+By running this project, you agree that you understand these terms and assume full responsibility for its ethical use. The creator is not responsible for any misuse or legal violations stemming from unauthorized use.
+
+

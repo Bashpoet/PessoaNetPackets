@@ -183,6 +183,8 @@ The creator and contributors of PessoaNetPackets:
 - Are not liable for any damages or legal issues
 - Recommend consulting legal professionals for specific advice
 
+> **Disclaimer:** The IP addresses used in this project (e.g., `192.168.x.x`, `10.x.x.x`) are **fictitious** and come from **reserved private IP ranges** per [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918). These addresses are not linked to any real devices or systems and are used **for illustrative purposes only**.
+
 ---
 
 *Last Updated: December 8, 2024*

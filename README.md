@@ -186,31 +186,102 @@ The creator and contributors of PessoaNetPackets:
 > **Disclaimer:** The IP addresses used in this project (e.g., `192.168.x.x`, `10.x.x.x`) are **fictitious** and come from **reserved private IP ranges** per [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918). These addresses are not linked to any real devices or systems and are used **for illustrative purposes only**. ,
 >
 > 
+ Legal & Ethical Considerations for PessoaNetPackets
 
-# Legal & Ethical Considerations
+**PessoaNetPackets** is an artistic tool designed to transform network traffic metadata into poetry using OpenAI's API. This document outlines the crucial legal and ethical guidelines that all users **must** adhere to.
 
-- Legal & Ethical Considerations
-- ------------------------------
-- 1. Network Monitoring Compliance:
--    - Only capture and analyze traffic on networks you own or where you have written authorization.
--    - Adhere to relevant regulations (GDPR, CCPA, local privacy laws).
--
-- 2. Data Privacy & Security:
--    - This script is intended for metadata analysis only—avoid inspecting payloads.
--    - Mask sensitive data (e.g., IP anonymization) to protect user privacy.
--    - Use encrypted storage for logs and maintain strict access controls.
--
-- 3. API Usage Compliance (OpenAI):
--    - Abide by OpenAI's Terms of Service and usage policies.
--    - Monitor or limit your calls to avoid rate limit breaches.
--    - Store credentials securely (e.g., environment variables, not hard-coded).
--
-- 4. Ethical Guidelines:
--    - Acceptable Use Cases: Artistic, educational, research, authorized network analysis, etc.
--    - Prohibited Activities: Unauthorized surveillance, malicious data harvest, privacy violations, and commercial exploitation without proper licensing.
--
-- 5. Limitation of Liability:
--    - Provided "as-is" with no warranties.
--    - The authors are not responsible for misuse or any legal ramifications.
--    - Users must consult legal professionals regarding compliance and liability.
--
+## Overview
+
+This project is intended for creative exploration and educational purposes. It is **crucial** to use it responsibly and ethically. Misuse can have serious legal and ethical consequences.
+
+### ⚠️ Legal Compliance
+
+## 1. Network Monitoring Authorization
+
+*   **You must have explicit permission to monitor a network.**
+    *   Only capture traffic on networks you own or administer.
+    *   Obtain **written authorization** before using PessoaNetPackets on any other network.
+    *   Maintain thorough records of all authorizations.
+
+## 2. Regulatory Compliance
+
+*   **Adhere to all applicable data privacy and surveillance laws.** These may include:
+    *   **General Data Protection Regulation (GDPR)** (European Union)
+    *   **California Consumer Privacy Act (CCPA)** (California, USA)
+    *   **Other local and national regulations** relevant to your jurisdiction.
+*   **Consult with legal counsel** to ensure compliance in your specific context.
+
+## 3. Data Privacy and Security
+
+### a. Data Minimization
+
+*   **PessoaNetPackets is designed for metadata analysis only.**  **Do not inspect packet payloads.**
+*   **Process only essential metadata:**
+    *   IP addresses (anonymized, see below)
+    *   Port numbers
+    *   Packet sizes
+    *   Protocol information
+
+#### b. Privacy Safeguards
+
+*   **Anonymize IP addresses:**
+    *   Use hashing or other robust anonymization techniques.
+    *   Never store raw IP addresses.
+*   **Secure storage:**
+    *   Store processed data in encrypted systems.
+    *   Implement strict access controls.
+    *   Conduct regular security audits.
+*   **Sanitize logs:** Remove any potentially identifying information before storing logs.
+
+### 4. OpenAI API Usage
+
+*   **Strictly adhere to OpenAI's Terms of Service.**
+*   **Manage your API usage** to stay within rate limits.
+*   **Securely store your API key.** Never hardcode it in the application. Use environment variables or other secure methods.
+*   **Regularly review OpenAI's policies** for any updates.
+
+##  Ethical Guidelines
+
+# Acceptable Use
+
+**PessoaNetPackets is intended for:**
+
+*   ✅ Artistic and creative projects
+*   ✅ Educational demonstrations and workshops
+*   ✅ Research in network analysis and data visualization
+*   ✅ Network analysis training
+
+# Prohibited Use
+
+**The following activities are strictly prohibited:**
+
+*   ❌ Unauthorized surveillance or monitoring of networks
+*   ❌ Malicious data collection or harvesting
+*   ❌ Any activity that violates individual privacy rights
+*   ❌ Commercial use without obtaining the necessary licenses
+
+## Ethical Best Practices
+
+1.  **Conduct regular ethical reviews** of your usage of PessoaNetPackets.
+2.  **Maintain transparent documentation** of your data processing activities.
+3.  **Be upfront with network users** about the use of PessoaNetPackets where applicable.
+4.  **Immediately report** any security vulnerabilities or concerns.
+
+## User Agreement
+
+By using PessoaNetPackets, you agree to the following:
+
+1.  You acknowledge that you have read and understood these legal and ethical guidelines.
+2.  You accept full responsibility for using PessoaNetPackets ethically and legally.
+3.  You commit to complying with all applicable laws and regulations.
+4.  You understand that the creators of PessoaNetPackets are not liable for any misuse of the tool.
+
+## Limitation of Liability
+
+The creators and contributors of PessoaNetPackets:
+
+*   Provide this software **"as is" without any warranties or guarantees.**
+*   **Assume no responsibility** for any misuse of PessoaNetPackets.
+*   **Are not liable** for any damages, legal issues, or other consequences arising from the use of this tool.
+*   **Strongly recommend consulting with legal professionals** for specific advice related to your use case.
+

@@ -189,34 +189,31 @@ The creator and contributors of PessoaNetPackets:
 
 # Legal & Ethical Considerations
 
-# ---------------------------------------------------------------------------
-#                           EXPANDED DISCLAIMER
-# ---------------------------------------------------------------------------
-#
-# Legal & Ethical Considerations
-# ------------------------------
-# 1. Network Monitoring Compliance:
-#    - Only capture and analyze traffic on networks you own or where you have
-#      written authorization.
-#    - Adhere to relevant regulations (GDPR, CCPA, local privacy laws).
-#
-# 2. Data Privacy & Security:
-#    - This script is intended for metadata analysis only—avoid inspecting payloads.
-#    - Mask sensitive data (e.g., IP anonymization) to protect user privacy.
-#    - Use encrypted storage for logs and maintain strict access controls.
-#
-# 3. API Usage Compliance (OpenAI):
-#    - Abide by OpenAI's Terms of Service and usage policies.
-#    - Monitor or limit your calls to avoid rate limit breaches.
-#    - Store credentials securely (e.g., environment variables, not hard-coded).
-#
-# 4. Ethical Guidelines:
-#    - Acceptable Use Cases: Artistic, educational, research, authorized network
-#      analysis, etc.
-#    - Prohibited Activities: Unauthorized surveillance, malicious data harvest,
-#      privacy violations, and commercial exploitation without proper licensing.
-#
-# 5. Limitation of Liability:
-#    - Provided "as-is" with no warranties.
-#    - The authors are not responsible for misuse or any legal ramifications.
-#    - Users must consult legal professionals regarding compliance and liability.
+- Legal & Ethical Considerations
+- ------------------------------
+- 1. Network Monitoring Compliance:
+-    - Only capture and analyze traffic on networks you own or where you have
+-      written authorization.
+-    - Adhere to relevant regulations (GDPR, CCPA, local privacy laws).
+-
+- 2. Data Privacy & Security:
+-    - This script is intended for metadata analysis only—avoid inspecting payloads.
+-    - Mask sensitive data (e.g., IP anonymization) to protect user privacy.
+-    - Use encrypted storage for logs and maintain strict access controls.
+-
+- 3. API Usage Compliance (OpenAI):
+-    - Abide by OpenAI's Terms of Service and usage policies.
+-    - Monitor or limit your calls to avoid rate limit breaches.
+-    - Store credentials securely (e.g., environment variables, not hard-coded).
+-
+- 4. Ethical Guidelines:
+-    - Acceptable Use Cases: Artistic, educational, research, authorized network
+-      analysis, etc.
+-    - Prohibited Activities: Unauthorized surveillance, malicious data harvest,
+-      privacy violations, and commercial exploitation without proper licensing.
+-
+- 5. Limitation of Liability:
+-    - Provided "as-is" with no warranties.
+-    - The authors are not responsible for misuse or any legal ramifications.
+-    - Users must consult legal professionals regarding compliance and liability.
+-

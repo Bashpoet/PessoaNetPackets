@@ -192,8 +192,7 @@ The creator and contributors of PessoaNetPackets:
 - Legal & Ethical Considerations
 - ------------------------------
 - 1. Network Monitoring Compliance:
--    - Only capture and analyze traffic on networks you own or where you have
--      written authorization.
+-    - Only capture and analyze traffic on networks you own or where you have written authorization.
 -    - Adhere to relevant regulations (GDPR, CCPA, local privacy laws).
 -
 - 2. Data Privacy & Security:
@@ -207,10 +206,8 @@ The creator and contributors of PessoaNetPackets:
 -    - Store credentials securely (e.g., environment variables, not hard-coded).
 -
 - 4. Ethical Guidelines:
--    - Acceptable Use Cases: Artistic, educational, research, authorized network
--      analysis, etc.
--    - Prohibited Activities: Unauthorized surveillance, malicious data harvest,
--      privacy violations, and commercial exploitation without proper licensing.
+-    - Acceptable Use Cases: Artistic, educational, research, authorized network analysis, etc.
+-    - Prohibited Activities: Unauthorized surveillance, malicious data harvest, privacy violations, and commercial exploitation without proper licensing.
 -
 - 5. Limitation of Liability:
 -    - Provided "as-is" with no warranties.

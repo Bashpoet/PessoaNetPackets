@@ -183,7 +183,37 @@ The creator and contributors of PessoaNetPackets:
 - Are not liable for any damages or legal issues
 - Recommend consulting legal professionals for specific advice
 
-> **Disclaimer:** The IP addresses used in this project (e.g., `192.168.x.x`, `10.x.x.x`) are **fictitious** and come from **reserved private IP ranges** per [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918). These addresses are not linked to any real devices or systems and are used **for illustrative purposes only**.
+> **Disclaimer:** The IP addresses used in this project (e.g., `192.168.x.x`, `10.x.x.x`) are **fictitious** and come from **reserved private IP ranges** per [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918). These addresses are not linked to any real devices or systems and are used **for illustrative purposes only**. ,
+>
+> 
+# Legal & Ethical Considerations
+# ------------------------------
+# 1. Network Monitoring Compliance:
+#    - Only capture and analyze traffic on networks you own or where you have
+#      written authorization.
+#    - Adhere to relevant regulations (GDPR, CCPA, local privacy laws).
+#
+# 2. Data Privacy & Security:
+#    - This script is intended for metadata analysis only—avoid inspecting payloads.
+#    - Mask sensitive data (e.g., IP anonymization) to protect user privacy.
+#    - Use encrypted storage for logs and maintain strict access controls.
+#
+# 3. API Usage Compliance (OpenAI):
+#    - Abide by OpenAI's Terms of Service and usage policies.
+#    - Monitor or limit your calls to avoid rate limit breaches.
+#    - Store credentials securely (e.g., environment variables, not hard-coded).
+#
+# 4. Ethical Guidelines:
+#    - Acceptable Use Cases: Artistic, educational, research, authorized network
+#      analysis, etc.
+#    - Prohibited Activities: Unauthorized surveillance, malicious data harvest,
+#      privacy violations, and commercial exploitation without proper licensing.
+#
+# 5. Limitation of Liability:
+#    - Provided "as-is" with no warranties.
+#    - The authors are not responsible for misuse or any legal ramifications.
+#    - Users must consult legal professionals regarding compliance and liability.
+#
 
 ---
 

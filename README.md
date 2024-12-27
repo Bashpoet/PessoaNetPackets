@@ -151,7 +151,7 @@ May your ports never be closed to curiosity, and may your logs forever contain t
 ### Which Version Is Better?
 
 They serve slightly different design aesthetics and usage flows:
-- **`digital_heteronyms.py`**: More verbose disclaimers, integrated poetic commentary in docstrings, and a deeply thematic approach.  
-- **`network_poetry_generator.py`**: A clean, modern structure with the `ChatCompletion` endpoint, slightly more streamlined.  
+- `digital_heteronyms.py`: More verbose disclaimers, integrated poetic commentary in docstrings, and a deeply thematic approach.  
+- `network_poetry_generator.py`: A clean, modern structure with the `ChatCompletion` endpoint, slightly more streamlined.  
 
 Ultimately, each accomplishes a similar goal: capturing packets and spinning them into poetic text. Pick whichever resonates with your personal style or integrate the best of both into one script. Enjoy your journey through ephemeral data and ephemeral verse!

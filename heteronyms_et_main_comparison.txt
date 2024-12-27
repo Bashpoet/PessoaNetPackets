@@ -1,3 +1,5 @@
+
+o1 Pro Advanced 
 Alright, let's delve into a comparative analysis of the two code snippets we've been exploring, dissecting their similarities, differences, and the underlying rationale. Think of this as a guided tour through the evolution of an idea, from its initial spark to a more refined and polished form.
 
 They’re really two variations on the same grand concept: a codebase that sniffs network packets and spins them into poetry via OpenAI. But if you compare them side by side, you’ll see both structural and stylistic differences—some subtle, some quite significant. Let's walk through how they are similar and how they diverge, weaving in the “why” and “how” behind each approach.
@@ -85,6 +87,9 @@ Both codes share the same fundamental goal and employ similar core mechanisms:
 
 **Differences: Evolution and Refinement**
 
+
+
+Gemini Advanced 2.0
 Here's where Code 2 (Digital Heteronyms) builds upon and refines the concepts introduced in Code 1:
 
 1.  **Naming and Clarity:**

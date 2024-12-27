@@ -1,4 +1,4 @@
-# PessoaNetPackets
+# PessoaNetPackets and other code in this repository
 Transform your network traffic into philosophical poetry inspired by literary masters. This tool captures network packets in real-time and generates poetic interpretations using AI, viewing digital communications through various poetic lenses.
 
 # Digital Heteronyms: A Network Traffic Poetry Generator 🌐📝
@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # 📜 Legal & Ethical Disclaimer
 
 ## Overview
-PessoaNetPackets is an artistic tool that transforms network traffic data into poetry using OpenAI's API. This disclaimer outlines crucial legal and ethical considerations for users.
+PessoaNetPackets and other code in this repository is an artistic tool that transforms network traffic data into poetry using OpenAI's API. This disclaimer outlines crucial legal and ethical considerations for users.
 
 ## Legal Considerations
 
@@ -170,14 +170,14 @@ PessoaNetPackets is an artistic tool that transforms network traffic data into p
 4. Immediate reporting of security concerns
 
 ## User Agreement
-By using PessoaNetPackets, you:
+By using PessoaNetPackets and other code in this repository, you:
 1. Acknowledge understanding of these terms
 2. Accept responsibility for ethical usage
 3. Agree to maintain compliance with all applicable laws
 4. Understand that the creator assumes no liability for misuse
 
 ## Limitation of Liability
-The creator and contributors of PessoaNetPackets:
+The creator and contributors of PessoaNetPackets and other code in this repository:
 - Provide no warranties or guarantees
 - Accept no responsibility for misuse
 - Are not liable for any damages or legal issues
@@ -186,9 +186,9 @@ The creator and contributors of PessoaNetPackets:
 > **Disclaimer:** The IP addresses used in this project (e.g., `192.168.x.x`, `10.x.x.x`) are **fictitious** and come from **reserved private IP ranges** per [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918). These addresses are not linked to any real devices or systems and are used **for illustrative purposes only**. ,
 >
 > 
- Legal & Ethical Considerations for PessoaNetPackets
+ Legal & Ethical Considerations for PessoaNetPackets and other code in this repository
 
-**PessoaNetPackets** is an artistic tool designed to transform network traffic metadata into poetry using OpenAI's API. This document outlines the crucial legal and ethical guidelines that all users **must** adhere to.
+**PessoaNetPackets and other code in this repository** is an artistic tool designed to transform network traffic metadata into poetry using OpenAI's API. This document outlines the crucial legal and ethical guidelines that all users **must** adhere to.
 
 ## Overview
 
@@ -200,7 +200,7 @@ This project is intended for creative exploration and educational purposes. It i
 
 *   **You must have explicit permission to monitor a network.**
     *   Only capture traffic on networks you own or administer.
-    *   Obtain **written authorization** before using PessoaNetPackets on any other network.
+    *   Obtain **written authorization** before using PessoaNetPackets and other code in this repository on any other network.
     *   Maintain thorough records of all authorizations.
 
 ## 2. Regulatory Compliance
@@ -215,7 +215,7 @@ This project is intended for creative exploration and educational purposes. It i
 
 ### a. Data Minimization
 
-*   **PessoaNetPackets is designed for metadata analysis only.**  **Do not inspect packet payloads.**
+*   **PessoaNetPackets and other code in this repository is designed for metadata analysis only.**  **Do not inspect packet payloads.**
 *   **Process only essential metadata:**
     *   IP addresses (anonymized, see below)
     *   Port numbers
@@ -244,7 +244,7 @@ This project is intended for creative exploration and educational purposes. It i
 
 # Acceptable Use
 
-**PessoaNetPackets is intended for:**
+**PessoaNetPackets and other code in this repository is intended for:**
 
 *   ✅ Artistic and creative projects
 *   ✅ Educational demonstrations and workshops
@@ -262,26 +262,26 @@ This project is intended for creative exploration and educational purposes. It i
 
 ## Ethical Best Practices
 
-1.  **Conduct regular ethical reviews** of your usage of PessoaNetPackets.
+1.  **Conduct regular ethical reviews** of your usage of PessoaNetPackets and other code in this repository.
 2.  **Maintain transparent documentation** of your data processing activities.
-3.  **Be upfront with network users** about the use of PessoaNetPackets where applicable.
+3.  **Be upfront with network users** about the use of PessoaNetPackets and other code in this repository where applicable.
 4.  **Immediately report** any security vulnerabilities or concerns.
 
 ## User Agreement
 
-By using PessoaNetPackets, you agree to the following:
+By using PessoaNetPackets and other code in this repository, you agree to the following:
 
 1.  You acknowledge that you have read and understood these legal and ethical guidelines.
-2.  You accept full responsibility for using PessoaNetPackets ethically and legally.
+2.  You accept full responsibility for using PessoaNetPackets and other code in this repository ethically and legally.
 3.  You commit to complying with all applicable laws and regulations.
-4.  You understand that the creators of PessoaNetPackets are not liable for any misuse of the tool.
+4.  You understand that the creators of PessoaNetPackets and other code in this repository are not liable for any misuse of the tool.
 
 ## Limitation of Liability
 
-The creators and contributors of PessoaNetPackets:
+The creators and contributors of PessoaNetPackets and other code in this repository:
 
 *   Provide this software **"as is" without any warranties or guarantees.**
-*   **Assume no responsibility** for any misuse of PessoaNetPackets.
+*   **Assume no responsibility** for any misuse of PessoaNetPackets and other code in this repository.
 *   **Are not liable** for any damages, legal issues, or other consequences arising from the use of this tool.
 *   **Strongly recommend consulting with legal professionals** for specific advice related to your use case.
 
